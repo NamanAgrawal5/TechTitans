@@ -1,5 +1,5 @@
 # TechTitans
-Project Name: WElfare Secure
+Project Name: Welfare Secure
 
 ## What people Can use it for?
 
